@@ -1,2 +1,2 @@
-# Meka 8.1
- Temporada 8 do MekaMiners Brasil, reservado para Staffs
+# Meka 8.2
+ Temporada 8 v2 do MekaMiners Brasil, reservado para Staffs
